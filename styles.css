@@ -4,6 +4,6 @@ body {
 
 @font-face {
     font-family: Roboto;
-    src: url(https://github.com/theanidox/theanidox.github.io/blob/siteassets/Roboto-Thin.ttf);
+    src: url(/Roboto-Thin.ttf);
 }
 
