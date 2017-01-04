@@ -2,7 +2,7 @@ body {
         background-image: url("https://vgy.me/6koxRj.jpg");
 } 
 
-@font-face {
+body @font-face {
     font-family: Roboto;
     src: url(/Roboto-Thin.ttf);
 }
