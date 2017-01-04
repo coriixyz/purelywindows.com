@@ -19,3 +19,9 @@ body {
     text-align: center;
     font-size: 2em;
 }
+
+ .text-centre {
+            text-align: center;
+            display: table-cell;
+            vertical-align: middle;
+        }
