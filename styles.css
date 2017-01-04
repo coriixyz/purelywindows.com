@@ -5,3 +5,8 @@ body {
  body {
     font-family: "Courier New", Times, serif;
 }
+
+icons {
+    height: 96px;
+    width: 96px;
+}
