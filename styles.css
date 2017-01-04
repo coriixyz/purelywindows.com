@@ -1,9 +1,7 @@
 body {
         background-image: url("https://vgy.me/6koxRj.jpg");
 } 
-
-body @font-face {
-    font-family: Roboto;
-    src: url(/Roboto-Thin.ttf);
+body {    
+    font-family: "Courier New", Times, serif;
+        
 }
-
