@@ -6,12 +6,7 @@ body {
     font-family: "Courier New", Times, serif;
 }
 
-icons {
-    height: 50px;
-    width: 50px;
-}
-
-icons {
+span {
     display: block;
     height: 60px;
     width: 60px;
@@ -20,6 +15,7 @@ icons {
     -moz-border-radius: 30px; /* or 50% */
     border-radius: 30px; /* or 50% */
 
+    background-color: black;
     color: white;
     text-align: center;
     font-size: 2em;
