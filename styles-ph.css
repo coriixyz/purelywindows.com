@@ -26,4 +26,16 @@
     cursor: pointer;
     height:475px;
     width: 350px;
+	blur:  5px;
+}
+
+.text {
+position:relative;
+bottom:30px;
+left:0px;
+visibility:hidden;
+}
+
+.text:hover {
+visibility:visible;
 }
