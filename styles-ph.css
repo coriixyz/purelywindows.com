@@ -1,0 +1,29 @@
+#menu {
+    max-width: 1200px;
+    text-align: center;
+    margin: auto;
+}
+
+#menu img {
+    width: 250px;
+    height: 375px;
+    padding: 0px 5px 0px 5px;
+    overflow: hidden;
+
+}
+
+
+.imgs {
+    height: 375px;
+    -webkit-transition: all 1s ease;
+    -moz-transition: all 1s ease;
+    -o-transition: all 1s ease;
+    -ms-transition: all 1s ease;
+    transition: all 1s ease;
+}
+
+.imgs:hover {
+    cursor: pointer;
+    height:475px;
+    width: 350px;
+}
