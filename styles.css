@@ -4,10 +4,9 @@ background-image:    -moz-linear-gradient(top, #3cff00, #00f4ff);
 background-image:     -ms-linear-gradient(top, #3cff00, #00f4ff);
 background-image:      -o-linear-gradient(top, #3cff00, #00f4ff);
 background-image:         linear-gradient(to bottom, #3cff00, #00f4ff);
-background-size:     cover;                
-    background-repeat:   no-repeat;
-    background-position: center center;
-	background-size: 5000%
+background-repeat:no-repeat;
+background-size:contain;
+background-position:center;
 }
 
 .button {
