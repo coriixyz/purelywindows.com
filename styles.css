@@ -1,0 +1,54 @@
+body {
+        font-family: 'Comfortaa', cursive;
+		font-color: #383838;
+        font-size: 48px;
+		background-image: url(/bg.png);
+      }
+	  .vert {
+		line-height: 500px;
+		vertical-align: middle;
+		color: white;
+		}
+		.fa {
+		color: white;
+		font-size: 50px;
+		}
+		div.centerdiv {
+		padding-left: 375px;
+		}
+		.fa-twitter {
+		transition: font-size 0.35s ease;
+		font-size: 1em;
+		}
+		.fa-twitter:hover {
+		color: lightblue;
+		transition: font-size 0.35s ease;
+		font-size: 1.5em;
+		}
+		.fa-cloud-download {
+		transition: font-size 0.35s ease;
+		font-size: 1em;
+		}
+		.fa-cloud-download:hover {
+		color: #00bf8f;
+		transition: font-size 0.35s ease;
+		font-size: 1.5em;
+		}
+		.fa-youtube-play {
+		transition: font-size 0.35s ease;
+		font-size: 1em;
+		}
+		.fa-youtube-play:hover {
+		color: #bb0000;
+		transition: font-size 0.35s ease;
+		font-size: 1.5em;
+		}
+		.fa-github {
+		transition: font-size 0.35s ease;
+		font-size: 1em;
+		}
+		.fa-github:hover {
+		color: black;
+		transition: font-size 0.35s ease;
+		font-size: 1.5em;
+		}		
