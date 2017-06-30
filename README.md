@@ -1,2 +1,1 @@
-# My website...
-... is hosted on Github because I'm cheap
+# This is my personal website edited by me, created by theanidox!
